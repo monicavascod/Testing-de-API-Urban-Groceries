@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠 Proyecto 4 – Testing de API: Urban Groceries  
+# 🛠 Testing de API: Urban Groceries  
 
 📌 **Rol:** QA Manual  
 📌 **Objetivo:** Validar la **API de Urban Groceries**, enfocándose en la creación de kits personalizados y la lógica del servicio de entregas **Order and Go**.  
