@@ -98,6 +98,9 @@ Se validaron escenarios positivos y negativos para:
 
 ---
 
+## 📂 Documentación
+👉 [Consulta la documentación completa en Google Sheets](https://docs.google.com/spreadsheets/d/1iHjPgcfbQRta6Q7stKxgHLUTcinB7nDD/edit?usp=sharing&ouid=112657294087284506568&rtpof=true&sd=true)
+
 <div align="center">
 
 ✨ Proyecto desarrollado como parte de mi formación en **QA Manual (API Testing)**.  
